@@ -8,7 +8,7 @@
   - Pour le lancer vous devrez avoir installer python sur votre machine
   - Et faire un python home.py en étant positionner sur le fichier
 
-  <br/><br/>
+  <br/>
 
   - Le deuxième jeu est un jeu de quiz avec 10 questions sur python
   - Ce jeu se joue dans la console et vous affiche votre score à la fin
